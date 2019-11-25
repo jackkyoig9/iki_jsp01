@@ -8,6 +8,7 @@
 </head>
 <body>
 <%
+// Java code
 String message="안녕";
 %>
 <%=message%>
